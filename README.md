@@ -1,2 +1,3 @@
 # Bitcoin-currency-value
-Vector watch stream
+
+Stream current bitcoin value in different currencies to your vector watch
